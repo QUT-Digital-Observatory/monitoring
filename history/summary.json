@@ -4,18 +4,20 @@
     "url": "https://youteplus.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/youteplus.digitalobservatory.net.au.ico",
     "slug": "youte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 629,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "time": 635,
+    "timeDay": 630,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
   },
   {
     "name": "NewsTalk",
