@@ -22,19 +22,19 @@
     "url": "https://newstalk.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/newstalk.digitalobservatory.net.au.ico",
     "slug": "news-talk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1357,
-    "timeWeek": 1099,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1152,
+    "timeDay": 1446,
+    "timeWeek": 1152,
+    "timeMonth": 1152,
+    "timeYear": 1152,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 7
     }
   },
   {
