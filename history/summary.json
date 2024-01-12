@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 666,
+    "timeDay": 627,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
@@ -22,7 +22,7 @@
     "url": "https://newstalk.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/newstalk.digitalobservatory.net.au.ico",
     "slug": "news-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1132,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 0
+    }
   },
   {
     "name": "Australian Digital Observatory",
