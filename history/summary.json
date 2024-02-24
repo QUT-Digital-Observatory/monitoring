@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 622,
-    "timeDay": 747,
-    "timeWeek": 655,
-    "timeMonth": 635,
-    "timeYear": 622,
+    "time": 620,
+    "timeDay": 497,
+    "timeWeek": 622,
+    "timeMonth": 630,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2024-01-14": 16
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/newstalk.digitalobservatory.net.au.ico",
     "slug": "news-talk",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 1124,
-    "timeDay": 1216,
-    "timeWeek": 1120,
-    "timeMonth": 1112,
-    "timeYear": 1124,
+    "uptimeYear": "99.68%",
+    "time": 1123,
+    "timeDay": 1067,
+    "timeWeek": 1106,
+    "timeMonth": 1108,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2024-01-13": 122,
       "2024-01-12": 94
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 107,
-    "timeWeek": 116,
-    "timeMonth": 143,
+    "timeDay": 172,
+    "timeWeek": 117,
+    "timeMonth": 146,
     "timeYear": 172,
     "dailyMinutesDown": {}
   }
