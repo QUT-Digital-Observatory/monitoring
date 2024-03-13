@@ -24,7 +24,7 @@
     "url": "https://newstalk.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/newstalk.digitalobservatory.net.au.ico",
     "slug": "news-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1095,
     "timeYear": 1114,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-01-13": 122,
       "2024-01-12": 94
     }
