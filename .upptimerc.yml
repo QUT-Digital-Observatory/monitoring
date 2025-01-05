@@ -9,6 +9,8 @@ sites:
     url: https://newstalk.digitalobservatory.net.au/
   - name: Australian Digital Observatory
     url: https://www.digitalobservatory.net.au/
+  - name: AusReddit
+    url: https://ausreddit.digitalobservatory.net.au/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
