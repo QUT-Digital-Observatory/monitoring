@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://QUT-Digital-Observatory.github.io/test)
+[**Visit our status website →**](https://QUT-Digital-Observatory.github.io/monitoring)
 
 ## 📄 License
 
