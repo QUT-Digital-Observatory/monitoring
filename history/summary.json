@@ -6,7 +6,7 @@
     "slug": "youte",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "76.57%",
+    "uptimeDay": "77.39%",
     "uptimeWeek": "80.71%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "99.16%",
@@ -48,17 +48,17 @@
     "slug": "news-talk",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.17%",
     "uptimeWeek": "83.89%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.45%",
     "time": 1588,
     "timeDay": 870,
     "timeWeek": 7871,
     "timeMonth": 3529,
     "timeYear": 2055,
     "dailyMinutesDown": {
-      "2025-04-01": 0,
+      "2025-04-01": 12,
       "2025-03-26": 1404,
       "2025-03-25": 1383,
       "2025-01-29": 67
@@ -69,10 +69,10 @@
     "url": "https://ausreddit.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/ausreddit.digitalobservatory.net.au.ico",
     "slug": "aus-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.89%",
     "time": 724,
@@ -81,6 +81,7 @@
     "timeMonth": 691,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2025-04-01": 1,
       "2025-03-26": 140
     }
   },
@@ -89,9 +90,9 @@
     "url": "https://ausreddit.digitalobservatory.net.au/api/v1/health/",
     "icon": "https://icons.duckduckgo.com/ip3/ausreddit.digitalobservatory.net.au.ico",
     "slug": "aus-reddit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.85%",
@@ -101,6 +102,7 @@
     "timeMonth": 202,
     "timeYear": 204,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2025-03-26": 140
     }
   },
