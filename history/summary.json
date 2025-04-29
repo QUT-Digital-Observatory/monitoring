@@ -13,7 +13,7 @@
     "time": 6574,
     "timeDay": 23835,
     "timeWeek": 17415,
-    "timeMonth": 15347,
+    "timeMonth": 15512,
     "timeYear": 9489,
     "dailyMinutesDown": {
       "2025-04-13": 296,
@@ -55,10 +55,10 @@
     "url": "https://newstalk.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/newstalk.digitalobservatory.net.au.ico",
     "slug": "news-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.45%",
     "time": 1530,
@@ -67,6 +67,7 @@
     "timeMonth": 1104,
     "timeYear": 1885,
     "dailyMinutesDown": {
+      "2025-04-29": 1,
       "2025-04-01": 25,
       "2025-03-26": 1404,
       "2025-03-25": 1383,
@@ -78,11 +79,11 @@
     "url": "https://ausreddit.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/ausreddit.digitalobservatory.net.au.ico",
     "slug": "aus-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 716,
     "timeDay": 533,
@@ -90,6 +91,7 @@
     "timeMonth": 681,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2025-04-29": 1,
       "2025-04-01": 120,
       "2025-03-26": 140
     }
@@ -99,9 +101,9 @@
     "url": "https://ausreddit.digitalobservatory.net.au/api/v1/health/",
     "icon": "https://icons.duckduckgo.com/ip3/ausreddit.digitalobservatory.net.au.ico",
     "slug": "aus-reddit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.80%",
@@ -111,6 +113,7 @@
     "timeMonth": 199,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-04-01": 120,
       "2025-03-26": 140
     }
