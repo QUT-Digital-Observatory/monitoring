@@ -4,7 +4,7 @@
     "url": "https://youteplus.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/youteplus.digitalobservatory.net.au.ico",
     "slug": "youte",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
     "uptimeDay": "87.88%",
     "uptimeWeek": "81.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 19181,
     "timeYear": 11558,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-05-14": 175,
       "2025-05-13": 353,
       "2025-05-12": 371,
