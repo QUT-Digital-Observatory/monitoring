@@ -4,15 +4,15 @@
     "url": "https://youteplus.digitalobservatory.net.au/",
     "icon": "https://icons.duckduckgo.com/ip3/youteplus.digitalobservatory.net.au.ico",
     "slug": "youte",
-    "status": "up",
+    "status": "down",
     "uptime": "98.30%",
-    "uptimeDay": "55.44%",
-    "uptimeWeek": "76.76%",
+    "uptimeDay": "66.38%",
+    "uptimeWeek": "76.75%",
     "uptimeMonth": "86.02%",
-    "uptimeYear": "97.65%",
+    "uptimeYear": "97.66%",
     "time": 9476,
-    "timeDay": 15838,
-    "timeWeek": 17723,
+    "timeDay": 14159,
+    "timeWeek": 17604,
     "timeMonth": 18717,
     "timeYear": 12436,
     "dailyMinutesDown": {
@@ -69,7 +69,7 @@
       "2025-03-10": 57,
       "2025-03-08": 237,
       "2025-03-02": 120,
-      "2025-03-01": 89
+      "2025-03-01": 49
     }
   },
   {
