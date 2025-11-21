@@ -3,8 +3,6 @@ owner: QUT-Digital-Observatory # Your GitHub organization or username, where thi
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Youte+
-    url: https://youteplus.digitalobservatory.net.au/
   - name: NewsTalk
     url: https://newstalk.digitalobservatory.net.au/
   - name: AusReddit
